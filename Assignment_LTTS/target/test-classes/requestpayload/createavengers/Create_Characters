@@ -1,0 +1,26 @@
+{
+
+	"MarvelUniverse": {
+		"Character1": {
+		"Name": "Captain America",
+		"title": "Avenger"
+		}, 
+		
+		"Character2": {
+		"Name": "Iron Man",
+		"title": "Avenger"
+		}, 
+		
+		"Character3": {
+		"Name": "Thor",
+		"title": "Avenger"		
+		}, 
+		
+		"Character4": {
+		"Name": "Spider man",
+		"title": "Avenger"		
+		}
+		
+	}
+	
+}

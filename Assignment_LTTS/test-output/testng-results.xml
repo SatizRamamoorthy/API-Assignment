@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-02T23:21:03 IST" name="Assignment_ltts_Suite" finished-at="2021-09-02T23:21:12 IST" duration-ms="8708">
+    <groups>
+    </groups>
+    <test started-at="2021-09-02T23:21:03 IST" name="Assignment_ltts_Suite" finished-at="2021-09-02T23:21:12 IST" duration-ms="8708">
+      <class name="com.httpmethods.cases.ID_02_GET_User_Details">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.httpmethods.cases.ID_02_GET_User_Details@78aa1f72]" started-at="2021-09-02T23:21:10 IST" name="setUp" finished-at="2021-09-02T23:21:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getUser_Details()[pri:0, instance:com.httpmethods.cases.ID_02_GET_User_Details@78aa1f72]" started-at="2021-09-02T23:21:10 IST" name="getUser_Details" finished-at="2021-09-02T23:21:10 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser_Details -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.httpmethods.cases.ID_02_GET_User_Details@78aa1f72]" started-at="2021-09-02T23:21:10 IST" name="tearDown" finished-at="2021-09-02T23:21:10 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.httpmethods.cases.ID_02_GET_User_Details -->
+      <class name="com.httpmethods.cases.ID_05_Verify_Invalid_Endpoint">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.httpmethods.cases.ID_05_Verify_Invalid_Endpoint@4b7dc788]" started-at="2021-09-02T23:21:12 IST" name="setUp" finished-at="2021-09-02T23:21:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_Invalid_Endpoint()[pri:0, instance:com.httpmethods.cases.ID_05_Verify_Invalid_Endpoint@4b7dc788]" started-at="2021-09-02T23:21:12 IST" name="verify_Invalid_Endpoint" finished-at="2021-09-02T23:21:12 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Invalid_Endpoint -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.httpmethods.cases.ID_05_Verify_Invalid_Endpoint@4b7dc788]" started-at="2021-09-02T23:21:12 IST" name="tearDown" finished-at="2021-09-02T23:21:12 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.httpmethods.cases.ID_05_Verify_Invalid_Endpoint -->
+      <class name="com.httpmethods.cases.ID_04_Verify_Invalid_Request">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.httpmethods.cases.ID_04_Verify_Invalid_Request@35399441]" started-at="2021-09-02T23:21:11 IST" name="setUp" finished-at="2021-09-02T23:21:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_Invalid_Request()[pri:0, instance:com.httpmethods.cases.ID_04_Verify_Invalid_Request@35399441]" started-at="2021-09-02T23:21:11 IST" name="verify_Invalid_Request" finished-at="2021-09-02T23:21:11 IST" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Invalid_Request -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.httpmethods.cases.ID_04_Verify_Invalid_Request@35399441]" started-at="2021-09-02T23:21:11 IST" name="tearDown" finished-at="2021-09-02T23:21:12 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.httpmethods.cases.ID_04_Verify_Invalid_Request -->
+      <class name="com.httpmethods.cases.ID_03_Modify_User_Details">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.httpmethods.cases.ID_03_Modify_User_Details@1f75a668]" started-at="2021-09-02T23:21:10 IST" name="setUp" finished-at="2021-09-02T23:21:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="modify_UserDetails()[pri:0, instance:com.httpmethods.cases.ID_03_Modify_User_Details@1f75a668]" started-at="2021-09-02T23:21:10 IST" name="modify_UserDetails" finished-at="2021-09-02T23:21:10 IST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modify_UserDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.httpmethods.cases.ID_03_Modify_User_Details@1f75a668]" started-at="2021-09-02T23:21:10 IST" name="tearDown" finished-at="2021-09-02T23:21:11 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.httpmethods.cases.ID_03_Modify_User_Details -->
+      <class name="com.httpmethods.cases.ID_01_Create_Avengers_Characters">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.httpmethods.cases.ID_01_Create_Avengers_Characters@6d026701]" started-at="2021-09-02T23:21:03 IST" name="setUp" finished-at="2021-09-02T23:21:03 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createCharacter_Names()[pri:0, instance:com.httpmethods.cases.ID_01_Create_Avengers_Characters@6d026701]" started-at="2021-09-02T23:21:04 IST" name="createCharacter_Names" finished-at="2021-09-02T23:21:09 IST" duration-ms="5224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCharacter_Names -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.httpmethods.cases.ID_01_Create_Avengers_Characters@6d026701]" started-at="2021-09-02T23:21:09 IST" name="tearDown" finished-at="2021-09-02T23:21:10 IST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.httpmethods.cases.ID_01_Create_Avengers_Characters -->
+    </test> <!-- Assignment_ltts_Suite -->
+  </suite> <!-- Assignment_ltts_Suite -->
+</testng-results>

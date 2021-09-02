@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Assignment_ltts_Suite"
+	configfailurepolicy="continue" data-provider-thread-count="1">
+	
+	  <listeners>
+        <listener class-name="com.httpmethods.cases.Listeners"></listener>
+    </listeners>
+
+	<test name="Assignment_ltts_Suite">
+		<classes>
+			<class name="com.httpmethods.cases.ID_01_Create_Avengers_Characters" />
+			<class name="com.httpmethods.cases.ID_02_GET_User_Details" />
+			<class name="com.httpmethods.cases.ID_03_Modify_User_Details" />
+			<class name="com.httpmethods.cases.ID_04_Verify_Invalid_Request" />
+			<class name="com.httpmethods.cases.ID_05_Verify_Invalid_Endpoint" />
+		</classes>
+	</test>
+</suite>
